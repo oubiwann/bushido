@@ -81,23 +81,23 @@ opportunity for growth, for practicing lessons previously learned.
 
 The notes are recorded here by chapter (linked as the notes are published):
 
-#. Bushido as an Ethical System
-#. Sources of Bushido
-#. Rectitude or Justice
-#. Courage, the Spirit of Daring and Bearing
-#. Benevolence, the Feeling of Distress
-#. Politeness
-#. Veracity and Sincerity
-#. Honor
-#. The Duty of Loyalty
-#. The Education and Training of a Samurai
-#. Self-Control
-#. The Institutions of Suicide and Redress
-#. The Sword, the Soul of the Samurai
-#. (skipped)
-#. The Influence of Bushido
-#. Is Bushido Still Alive?
-#. The Future of Bushido
+1. Bushido as an Ethical System
+2. Sources of Bushido
+3. Rectitude or Justice
+4. Courage, the Spirit of Daring and Bearing
+5. Benevolence, the Feeling of Distress
+6. Politeness
+7. Veracity and Sincerity
+8. Honor
+9. The Duty of Loyalty
+10. The Education and Training of a Samurai
+11. Self-Control
+12. The Institutions of Suicide and Redress
+13. The Sword, the Soul of the Samurai
+14. (skipped)
+15. The Influence of Bushido
+16. Is Bushido Still Alive?
+17. The Future of Bushido
 
 
 <!-- Named page links below: /-->
@@ -121,3 +121,6 @@ The notes are recorded here by chapter (linked as the notes are published):
 [ch12]: notes/ch12.md
 [ch13]: notes/ch13.md
 [ch14]: notes/ch14.md
+[ch15]: notes/ch15.md
+[ch16]: notes/ch16.md
+[ch17]: notes/ch17.md
